@@ -51,9 +51,4 @@ Files in This Project
 - Sales_Performance_Dashboard_Project_Report.pdf – Summary report
 - README.md – This file
 
----
 
-## 📬 Contact
-*Name:* Sameer Sam  
-*Email:* [your-email@example.com]  
-*LinkedIn:* [your-linkedin-profile]
