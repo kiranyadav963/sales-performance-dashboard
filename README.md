@@ -12,14 +12,14 @@ This project analyzes sales data from a retail company to understand how differe
 
 
 Tools Used
-- *Power BI* – For building interactive dashboards
-- *Excel* – For organizing and cleaning raw data
-- *SQL* – To filter and structure the dataset
-- *Python (optional)* – To generate charts and reports
+- Power BI – For building interactive dashboards
+- Excel – For organizing and cleaning raw data
+- SQL – To filter and structure the dataset
+- Python (optional) – To generate charts and reports
 
  
  What I Did
-- Collected and cleaned sales data with 15,000+ transactions
+- Collected and cleaned sales data .
 - Built a Power BI dashboard with KPIs like:
   - Total Revenue
   - Sales by Region
